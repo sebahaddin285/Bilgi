@@ -1,0 +1,10 @@
+C:\Users\sebah\source\repos\Bilgi\Bilgi\bin\Debug\Bilgi.exe.config
+C:\Users\sebah\source\repos\Bilgi\Bilgi\bin\Debug\Bilgi.exe
+C:\Users\sebah\source\repos\Bilgi\Bilgi\bin\Debug\Bilgi.pdb
+C:\Users\sebah\source\repos\Bilgi\Bilgi\obj\Debug\Bilgi.csprojAssemblyReference.cache
+C:\Users\sebah\source\repos\Bilgi\Bilgi\obj\Debug\Bilgi.Form1.resources
+C:\Users\sebah\source\repos\Bilgi\Bilgi\obj\Debug\Bilgi.Properties.Resources.resources
+C:\Users\sebah\source\repos\Bilgi\Bilgi\obj\Debug\Bilgi.csproj.GenerateResource.cache
+C:\Users\sebah\source\repos\Bilgi\Bilgi\obj\Debug\Bilgi.csproj.CoreCompileInputs.cache
+C:\Users\sebah\source\repos\Bilgi\Bilgi\obj\Debug\Bilgi.exe
+C:\Users\sebah\source\repos\Bilgi\Bilgi\obj\Debug\Bilgi.pdb
